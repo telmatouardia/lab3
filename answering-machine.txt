@@ -2,9 +2,7 @@ CANONICAL LIST OF ANSWERING MACHINE MESSAGES
 
 	--- machine theme ---
 
-	Well I finally got an answering machine.  Now how does this
-	thing work?  Hmmm.  Press record button, I did that, and the
-	light should be on.  I wonder why it's not working right.
+	Well I finally got an answering machine.  Now how does thiG
 	Hmmmm, I wonder what this button does...
 
 	How do you leave a message on this thing?  I can't understand
@@ -1644,7 +1642,7 @@ CANONICAL LIST OF ANSWERING MACHINE MESSAGES
 
 	(A friend was at a mutual friend's sister's house, and when she
 	went out for beer, he changed her answering machine message.  In
-	a loud, deep, gravelly, horror-film voice he recorded:)  Hi,
+	a loud, deep,  horror-film voice he recorded:)  Hi,
 	this is Kathy.  I'm not myself right now.  If you leave your
 	name and number, I'll get back to you when I'm feeling better.
 
@@ -1662,4 +1660,4 @@ CANONICAL LIST OF ANSWERING MACHINE MESSAGES
 
 
 
-Back to the Strange page. 
+TTBack to the Strange page. 
