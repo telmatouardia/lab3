@@ -13,3 +13,10 @@ est cela est dù  que sur le disque est coupé en sous bloc donc il va occuper p
 par contre ls -rt nous permet d'inverser l'ordre cest à dire du plus anciens au plus recent
 10) ls -lsr 
 11)  cat answering-machine.txt 
+13) sudo apt install vim
+14) G pour aller au bas de page, :x pour enregister , :q pour quitter 
+15)  /gravelly , :x pour enregister les modif & pour quitter
+16) idem :x enregister & quitter 
+17) /planet apres n pour passer aux autres 
+19)
+
