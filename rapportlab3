@@ -1,16 +1,15 @@
-4 nombre de fichier et de repertoire avec la commande ls -lrt 
+4) nombre de fichier et de repertoire avec la commande ls -lrt 
 
-5 la taille du répertoire est pas correcte car c'est un repertoire  qui pointe vers d'autre fichier, il decrit juste le fichier sardar
+5) la taille du répertoire est pas correcte car c'est un repertoire  qui pointe vers d'autre fichier, il decrit juste le fichier sardar
 
-6  c'est pas la meme taille avec avec la commande du et ls -lrt 
+6 )  c'est pas la meme taille avec avec la commande du et ls -lrt 
 avec  du on trouve 36k
 et ls -lrt on trouve 34359 oct 
 est cela est dù  que sur le disque est coupé en sous bloc donc il va occuper plus d'espace que sa vrai taille 
 
-7
+8) oui y a un fichier caché avec une commande ls -d . * on retouve le fichier lightbulb
 
-
-8 oui y a un fichier caché avec une commande ls -d . * on retouve le fichier lightbulb
-
-9 la commande ls -t nous donne l'ordre des fichier du plus recent 
+9)  la commande ls -t nous donne l'ordre des fichier du plus recent 
 par contre ls -rt nous permet d'inverser l'ordre cest à dire du plus anciens au plus recent
+10) ls -lsr 
+11)  cat answering-machine.txt 
