@@ -20,6 +20,11 @@ par contre ls -rt nous permet d'inverser l'ordre cest à dire du plus anciens au
 17) /planet apres n pour passer aux autres 
 19) ?BEEP  pour dernier BEEP pour voir les précedent on clique sur n
 20) tail -20 sardar3.txt 
-21) grep -Rinw 'trust' +le chemin (racine)
+21) grep -Rinw 'trust' +le chemin (racine) , où vim Microsoft puis echap /trust 
 22) grep -Rinw 'money' + le chemin 
-
+24) modifier le fichier lightbulb pour qu'il ne soit plus caché  mv .lightbuld lightbuld 
+25) cd sardar 
+26) deplacement avec mv 
+27) cd + nom du repertoire parent 
+28) debarasser du Microsoft rm Microsoft
+29) 
