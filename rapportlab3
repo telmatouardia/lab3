@@ -18,5 +18,8 @@ par contre ls -rt nous permet d'inverser l'ordre cest à dire du plus anciens au
 15)  /gravelly , :x pour enregister les modif & pour quitter
 16) idem :x enregister & quitter 
 17) /planet apres n pour passer aux autres 
-19)
+19) ?BEEP  pour dernier BEEP pour voir les précedent on clique sur n
+20) tail -20 sardar3.txt 
+21) grep -Rinw 'trust' +le chemin (racine)
+22) grep -Rinw 'money' + le chemin 
 
