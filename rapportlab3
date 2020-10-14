@@ -25,6 +25,14 @@ par contre ls -rt nous permet d'inverser l'ordre cest à dire du plus anciens au
 24) modifier le fichier lightbulb pour qu'il ne soit plus caché  mv .lightbuld lightbuld 
 25) cd sardar 
 26) deplacement avec mv 
-27) cd + nom du repertoire parent 
 28) debarasser du Microsoft rm Microsoft
-29) 
+29_ pour afficher le nom du repertoire actuel  :  pwd    (print working directory)
+30- pour deplacer le fichier sardar3.txt depuis sn repertoir vers le repertoir parent : mv sardar3.txt lab3
+31- pour creer un repertoir archive : aller au repertoir puis : tar -cvf "nommer.tar" " le nom du fichier qu'on veut archiver"
+32- pour creer un lien symbolic : ln -s + nom du dossier + nom du lien
+33- en accedant a sardar et suprimant le fichier sardar2.txt via la commande : mv sardar2.txt, ce dernier est aussi suprimé dans le lien symbolic cree.
+34- en ajoutant " MASTER SC " au fichier sardar1 dans sardar , l'expression d'ajoute aussi dans le fichier du lien symbolic.
+35- droit d'accées des fichiers : chmod g+w sardar1.txt ( dans le cas ou on veut ajouter droit d'ecrire au group)
+36- creer une archive .tar.bzd2 : tar jcvf 5AS05-partie3.tar.bz2 5AS05-partie3
+37-lister les fichiers sans decompresser: tar jtvf 5AS05-partie3.tar.bz2
+
